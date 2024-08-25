@@ -10,8 +10,8 @@ const owners = [
     },
     {
         name: 'Min Thet Naung',
-        id: '653',
-        email: '',
+        id: '6530142',
+        email: 'u6530142@au.edu',
         image: '',
     }
 ];
